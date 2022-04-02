@@ -1,0 +1,8 @@
+[2022-03-31 20:42:15.154] [exthost] [info] Extension host with pid 1585 started
+[2022-03-31 20:42:15.297] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-31 20:42:15.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-03-31 20:42:15.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-31 20:42:15.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-31 20:42:15.517] [exthost] [info] Eager extensions activated
+[2022-03-31 20:42:15.558] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-31 20:42:15.587] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
